@@ -1,3 +1,4 @@
+// some comment
 const categories = [
   { id: '1ab', name: 'electronics' },
   { id: '3ad', name: 'samsung', parentId: '2ac' },
